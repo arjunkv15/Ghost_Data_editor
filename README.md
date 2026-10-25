@@ -1,5 +1,7 @@
 # Ghost Data Audit — Evidence-Based Deletion Case Auditor
 
+https://ai.studio/apps/5d750a0c-0b19-4cd6-8dcf-d57b8caa2bcf?fullscreenApplet=true
+
 A beginner-friendly, explainable, and deterministic privacy auditor built for the HackerRank Orchestrate challenge **"Ghost Data Still Exists"**.
 
 ---
